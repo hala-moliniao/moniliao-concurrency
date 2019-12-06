@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="moniliao-high-concurrency-demo" />
         <module name="moniliao-concurrency-demo" />
+        <module name="moniliao-high-concurrency-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
